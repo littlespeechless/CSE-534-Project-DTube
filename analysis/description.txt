@@ -1,0 +1,68 @@
+- Video Distribution Summary
+    This figure showed the daily hot, new, trending videos distribution.
+    As we observed that DTube has a lot of YouTube redirection about twice as more than other type.
+
+- Video Duration CDF
+    This figure showed the video duration CDF distribution, we can observe that about 90% of the video is below 25 min.
+    Also all the location aligned almost perfectly indicate that DTube does not advertise different content based on
+    geo-location.
+
+- Video Bandwidth CDF
+    This figure showed the overall bandwidth CDF distribution among all video we recorded from local gateway and public
+    gateway.
+    We observed that NY had the highest bandwidth and JP had the smallest bandwidth.
+    The EU had a strange curve on public gateway we suspect maybe due to updates on the script and
+    causing inaccurate data.
+
+- Bandwidth Local VS Public
+    This figure showed a more deep analysis on how local reachable video's bandwidth compare to its public gateway
+    bandwidth.
+    We observed that in general local gateway has much higher bandwidth compare to public gateway when access the same
+    video.
+    * Note: The discontinuity in the graph indicate that the local gateway was not able to reach the content
+
+- Bandwidth Public VS Public
+    This figure showed a comparison between average public bandwidth (local gateway is reachable) and public bandwidth
+    (local gateway non-reachable).
+    We observed that the bandwidth is higher when the video is not reachable.
+    We suspect that when DTube gateway does not have the video it goes through the same IPFS routing thus causing
+    additional hops
+    * Note: The discontinuity in the graph indicate that the local gateway was not able to reach the content
+
+- Video Connection Time CDF
+    This figure showed overall connection time between local gateway and public gateway.
+    We observed that the overall public gateway has less connection time and this is expected as it is being served
+    from single host.
+
+- Connection Time Local VS Public
+    This figure showed how local gateway reachable video's connection time between local gateway and public gateway.
+    We observed that local gateway's connection time is much higher than public gateway.
+    * Note: The discontinuity in the graph indicate that the local gateway was not able to reach the content
+
+- Connection Time Public VS Public
+    This figure show connection time between public gateway (local gateway reachable video) and public gateway
+    (non-reachable).
+    We observed that in general the public gateway (non-reachable) is higher than public gateway (reachable)
+
+- Video Ratio
+    This figure showed the video count between public gateway reachable video and local gateway reachable video
+    It clearly showed that most of the video is not reachable through regular IPFS routing, we suspect that DTube had
+    it private IPFS nodes and cluster, and it is only accessible through its own gateway.
+
+- Provider Count CDF
+    This figure showed the provider count CDF amount all the video that is local gateway reachable.
+    We observed that 50 % if the video only has 3 providers
+
+- Provider RTT CDF
+    This figure showed the provider RTT CDF.
+    We observed that 50% of the provider has RTT of close to 100 ms.
+    In addition, NY and CA seems to have lower RTT we suspect most of the provider may be in the US.
+
+- Table to show
+    Location        Total Vid       Reachable       Distribution
+    NY              422             21              {'United States': 11, 'Japan': 1, 'Netherlands': 3}
+    CA              379             21              {'United States': 11, 'Japan': 1, 'Netherlands': 4}
+    EU              367             20              {'United States': 11, 'Japan': 1, 'Netherlands': 4}
+    JP              376             21              {'United States': 11, 'Japan': 1, 'Netherlands': 4}
+
+    This data further proved our speculation of most provider is from the US and CA and NY has lower RTT

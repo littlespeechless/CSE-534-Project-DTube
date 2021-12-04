@@ -1,0 +1,1471 @@
+[
+  {
+    "cid": "QmaFpqV5Q7MmgUNc1vqvwb4J7kGogvti1NnfiwL1wG4hpf",
+    "ipfs_hop": 2,
+    "providers": {
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 159.703,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 159.125,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWHdpjpGUNEsnWKTZouATmgZvnpTnibrEUAJKvannekTya": [
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 86.303,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 84.707,
+          "ip_hop": "100"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmfSSagzeVWtH13wiqQAmUbGeEXLRqmueyxuTotrkKJKbz",
+    "ipfs_hop": 2,
+    "providers": {
+      "12D3KooWHdpjpGUNEsnWKTZouATmgZvnpTnibrEUAJKvannekTya": [
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 85.503,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 85.001,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 170.754,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 168.051,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWSUEGQ7fbHyxdNEX6ZSGG52xkxLDjNzdVUaewExzppdnA": [
+        {
+          "ip": "35.205.137.48",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 89.392,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "35.205.137.48",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 86.172,
+          "ip_hop": "2"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmYKGfnMc4Pz4DBjsLrNmTqzjNm1YmBvqtgTMoQV9HCCZ2",
+    "ipfs_hop": 3,
+    "providers": {
+      "12D3KooWHdpjpGUNEsnWKTZouATmgZvnpTnibrEUAJKvannekTya": [
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 86.864,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 86.094,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 159.219,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 162.849,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWF3PkqX8b9HhjiuLnScRsy198D8DhQrU3JxTifJPF9xwP": [
+        {
+          "ip": "24.191.224.54",
+          "ip_type": "ip4",
+          "port": "33011",
+          "protocol": "tcp",
+          "rtt": 44.246,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "24.191.224.54",
+          "ip_type": "ip4",
+          "port": "33011",
+          "protocol": "udp",
+          "rtt": 20.615,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWSUEGQ7fbHyxdNEX6ZSGG52xkxLDjNzdVUaewExzppdnA": [
+        {
+          "ip": "35.205.137.48",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 86.398,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "35.205.137.48",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 88.314,
+          "ip_hop": "2"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmPLG5wAmn1HvdmCTKMUFxfLGkaFeJbmDiEoUbBMKSLSxz",
+    "ipfs_hop": 2,
+    "providers": {
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 167.088,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 160.458,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWSUEGQ7fbHyxdNEX6ZSGG52xkxLDjNzdVUaewExzppdnA": [
+        {
+          "ip": "35.205.137.48",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 86.834,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "35.205.137.48",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 92.711,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWHdpjpGUNEsnWKTZouATmgZvnpTnibrEUAJKvannekTya": [
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 96.391,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 86.334,
+          "ip_hop": "2"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmPyDWqWSYFHdFzr6SNknhDxfkRNJtz49z3Jfvms7k5sqa",
+    "ipfs_hop": 2,
+    "providers": {
+      "12D3KooWHdpjpGUNEsnWKTZouATmgZvnpTnibrEUAJKvannekTya": [
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 84.334,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 87.341,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 164.926,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 162.828,
+          "ip_hop": "100"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmYoiemzSwrPn6fkuiRscnp29gjDJ8KYgXaiBYc1ZH6PTy",
+    "ipfs_hop": 1,
+    "providers": {
+      "12D3KooWHdpjpGUNEsnWKTZouATmgZvnpTnibrEUAJKvannekTya": [
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 86.021,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 85.406,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 165.366,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 161.366,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWF3PkqX8b9HhjiuLnScRsy198D8DhQrU3JxTifJPF9xwP": [
+        {
+          "ip": "24.191.224.54",
+          "ip_type": "ip4",
+          "port": "33011",
+          "protocol": "udp",
+          "rtt": 57.111,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "24.191.224.54",
+          "ip_type": "ip4",
+          "port": "33011",
+          "protocol": "tcp",
+          "rtt": 18.039,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWSUEGQ7fbHyxdNEX6ZSGG52xkxLDjNzdVUaewExzppdnA": [
+        {
+          "ip": "35.205.137.48",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 87.85,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "35.205.137.48",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 86.785,
+          "ip_hop": "2"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmNwDbGfzFR1c7RpuBvpCRSB2m7E42txpd3Lm3fGwxQAy2",
+    "ipfs_hop": 3,
+    "providers": {
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 165.323,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 168.803,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWF3PkqX8b9HhjiuLnScRsy198D8DhQrU3JxTifJPF9xwP": [
+        {
+          "ip": "24.191.224.54",
+          "ip_type": "ip4",
+          "port": "33011",
+          "protocol": "tcp",
+          "rtt": 20.597,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "24.191.224.54",
+          "ip_type": "ip4",
+          "port": "33011",
+          "protocol": "udp",
+          "rtt": 20.043,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWSUEGQ7fbHyxdNEX6ZSGG52xkxLDjNzdVUaewExzppdnA": [
+        {
+          "ip": "35.205.137.48",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 84.651,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "35.205.137.48",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 85.242,
+          "ip_hop": "100"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmPChbJ3imp3n8uD53u4RXNWR2qAPqTbTjn8AiQkwLyPJ4",
+    "ipfs_hop": 2,
+    "providers": {
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 161.695,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 159.597,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWLfG4vioTH9HBepCrFcQkCTyhMcnNkU1Aq1EUZgcrJsLz": [
+        {
+          "ip": "39.110.90.145",
+          "ip_type": "ip4",
+          "port": "62991",
+          "protocol": "udp",
+          "rtt": "199.364",
+          "ip_hop": "100"
+        },
+        {
+          "ip": "39.110.90.145",
+          "ip_type": "ip4",
+          "port": "30604",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "39.110.90.145",
+          "ip_type": "ip4",
+          "port": "30604",
+          "protocol": "udp",
+          "rtt": null,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWSUEGQ7fbHyxdNEX6ZSGG52xkxLDjNzdVUaewExzppdnA": [
+        {
+          "ip": "35.205.137.48",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 85.798,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "35.205.137.48",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 86.447,
+          "ip_hop": "2"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmNoG7AxDXCes1ioZfFw5z2cnqai6BuvF87j1YnLXL6E3Q",
+    "ipfs_hop": 2,
+    "providers": {
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 163.183,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 159.031,
+          "ip_hop": "2"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmNLo4rwWnEpVPpP6591r4y1uJdnUWhd3terrHm9NXBb4T",
+    "ipfs_hop": 3,
+    "providers": {
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 163.6,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 163.936,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWF3PkqX8b9HhjiuLnScRsy198D8DhQrU3JxTifJPF9xwP": [
+        {
+          "ip": "24.191.224.54",
+          "ip_type": "ip4",
+          "port": "33011",
+          "protocol": "tcp",
+          "rtt": 21.601,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "24.191.224.54",
+          "ip_type": "ip4",
+          "port": "33011",
+          "protocol": "udp",
+          "rtt": 35.458,
+          "ip_hop": "100"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmboxsVUhoQ68es2JB3qP3aoEk2xCfs76zVdJuCL78K97k",
+    "ipfs_hop": 3,
+    "providers": {
+      "12D3KooWFbvyymazLynU4qjznQZWkjKHPCDVQRkgAjwMWgJ8qgm2": []
+    }
+  },
+  {
+    "cid": "QmVr6rYkuuu2X77DcKBuds3duA5PifF4giJ1vTEu5oMqr1",
+    "ipfs_hop": 3,
+    "providers": {
+      "12D3KooWEDMw7oRqQkdCJbyeqS5mUmWGwTp8JJ2tjCzTkHboF6wK": [
+        {
+          "ip": "2604:1380:45e1:2700::3",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "139.178.68.91",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 83.044,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "2604:1380:45e1:2700::3",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "139.178.68.91",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 82.602,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWSnniGsyAF663gvHdqhyfJMCjWJv54cGSzcPiEMAfanvU": [
+        {
+          "ip": "2604:1380:45f1:8400::1",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "145.40.89.195",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 20.842,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "2604:1380:45f1:8400::1",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "145.40.89.195",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 23.795,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWNuoVEfVLJvU3jWY2zLYjGUaathsecwT19jhByjnbQvkj": [
+        {
+          "ip": "2604:1380:4601:4200::3",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "147.75.32.73",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 84.295,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "147.75.32.73",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 85.768,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "2604:1380:4601:4200::3",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        }
+      ],
+      "12D3KooWPySxxWQjBgX9Jp6uAHQfVmdq8HG1gVvS1fRawHNSrmqW": [
+        {
+          "ip": "2604:1380:4601:4200::1",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "2604:1380:4601:4200::1",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "147.75.33.191",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 85.955,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "147.75.33.191",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 86.176,
+          "ip_hop": "66"
+        }
+      ],
+      "12D3KooWR19qPPiZH4khepNjS3CLXiB7AbrbAD4ZcDjN1UjGUNE1": [
+        {
+          "ip": "139.178.69.155",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 83.471,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "139.178.69.155",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 80.4,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "2604:1380:45e1:2700::1",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "2604:1380:45e1:2700::1",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        }
+      ],
+      "12D3KooWMAJDFhRTMxFzQZWgJMYvSSK4QSBA7SjQ9DKte5QwnTfe": []
+    }
+  },
+  {
+    "cid": "QmZiGs4p9W3zdqvrq5rvhQL4tFiAPfpvCdxAgTSzhdxRnR",
+    "ipfs_hop": 3,
+    "providers": {
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 161.655,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 168.298,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWSnniGsyAF663gvHdqhyfJMCjWJv54cGSzcPiEMAfanvU": [
+        {
+          "ip": "145.40.89.195",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 25.829,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "2604:1380:45f1:8400::1",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "145.40.89.195",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 21.581,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "2604:1380:45f1:8400::1",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        }
+      ],
+      "12D3KooWNuoVEfVLJvU3jWY2zLYjGUaathsecwT19jhByjnbQvkj": [
+        {
+          "ip": "147.75.32.73",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 87.907,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "2604:1380:4601:4200::3",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "2604:1380:4601:4200::3",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "147.75.32.73",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 84.952,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWPySxxWQjBgX9Jp6uAHQfVmdq8HG1gVvS1fRawHNSrmqW": [
+        {
+          "ip": "2604:1380:4601:4200::1",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "2604:1380:4601:4200::1",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "147.75.33.191",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 84.412,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "147.75.33.191",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 87.12,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWEDMw7oRqQkdCJbyeqS5mUmWGwTp8JJ2tjCzTkHboF6wK": [
+        {
+          "ip": "2604:1380:45e1:2700::3",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "139.178.68.91",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 88.672,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "2604:1380:45e1:2700::3",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "139.178.68.91",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 86.689,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWR19qPPiZH4khepNjS3CLXiB7AbrbAD4ZcDjN1UjGUNE1": [
+        {
+          "ip": "2604:1380:45e1:2700::1",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "139.178.69.155",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 81.619,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "139.178.69.155",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 89.121,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "2604:1380:45e1:2700::1",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmZSR5omdUfCRfwVG4g9PkxMsbwMPjqFBD7gBHEGRXeVeV",
+    "ipfs_hop": 2,
+    "providers": {
+      "12D3KooWF3PkqX8b9HhjiuLnScRsy198D8DhQrU3JxTifJPF9xwP": [
+        {
+          "ip": "24.191.224.54",
+          "ip_type": "ip4",
+          "port": "33011",
+          "protocol": "tcp",
+          "rtt": 23.017,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "24.191.224.54",
+          "ip_type": "ip4",
+          "port": "33011",
+          "protocol": "udp",
+          "rtt": 22.86,
+          "ip_hop": "100"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmTjArTeMvjGRQyDYAKbPdTMdgezsWaV33nAgdN5co5HAD",
+    "ipfs_hop": 3,
+    "providers": {
+      "12D3KooWEDMw7oRqQkdCJbyeqS5mUmWGwTp8JJ2tjCzTkHboF6wK": [
+        {
+          "ip": "139.178.68.91",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 82.948,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "2604:1380:45e1:2700::3",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "139.178.68.91",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 83.354,
+          "ip_hop": "29"
+        },
+        {
+          "ip": "2604:1380:45e1:2700::3",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        }
+      ],
+      "12D3KooWSnniGsyAF663gvHdqhyfJMCjWJv54cGSzcPiEMAfanvU": [
+        {
+          "ip": "2604:1380:45f1:8400::1",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "145.40.89.195",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 18.956,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "2604:1380:45f1:8400::1",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "145.40.89.195",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 19.494,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWNuoVEfVLJvU3jWY2zLYjGUaathsecwT19jhByjnbQvkj": [
+        {
+          "ip": "2604:1380:4601:4200::3",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "147.75.32.73",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 87.939,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "147.75.32.73",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 85.78,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "2604:1380:4601:4200::3",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        }
+      ],
+      "12D3KooWPySxxWQjBgX9Jp6uAHQfVmdq8HG1gVvS1fRawHNSrmqW": [
+        {
+          "ip": "2604:1380:4601:4200::1",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "147.75.33.191",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 85.807,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "147.75.33.191",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 84.18,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "2604:1380:4601:4200::1",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        }
+      ],
+      "12D3KooWR19qPPiZH4khepNjS3CLXiB7AbrbAD4ZcDjN1UjGUNE1": [
+        {
+          "ip": "2604:1380:45e1:2700::1",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "139.178.69.155",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 81.236,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "139.178.69.155",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 81.33,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "2604:1380:45e1:2700::1",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmUuWRHE4EChJtzKRrWW2M67xXn5e9jutgK2ELNuszbAnt",
+    "ipfs_hop": 3,
+    "providers": {
+      "12D3KooWF3PkqX8b9HhjiuLnScRsy198D8DhQrU3JxTifJPF9xwP": [
+        {
+          "ip": "24.191.224.54",
+          "ip_type": "ip4",
+          "port": "33011",
+          "protocol": "tcp",
+          "rtt": 46.307,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "24.191.224.54",
+          "ip_type": "ip4",
+          "port": "33011",
+          "protocol": "udp",
+          "rtt": 24.383,
+          "ip_hop": "100"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmcoWBaugF9WAbG6PGmXN9XmsghFXfvyLyZfLKPLjiMtTW",
+    "ipfs_hop": 3,
+    "providers": {
+      "12D3KooWEDMw7oRqQkdCJbyeqS5mUmWGwTp8JJ2tjCzTkHboF6wK": [
+        {
+          "ip": "139.178.68.91",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 88.429,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "2604:1380:45e1:2700::3",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "139.178.68.91",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 85.019,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "2604:1380:45e1:2700::3",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        }
+      ],
+      "12D3KooWMAJDFhRTMxFzQZWgJMYvSSK4QSBA7SjQ9DKte5QwnTfe": [],
+      "12D3KooWSnniGsyAF663gvHdqhyfJMCjWJv54cGSzcPiEMAfanvU": [
+        {
+          "ip": "2604:1380:45f1:8400::1",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "145.40.89.195",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 29.635,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "2604:1380:45f1:8400::1",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "145.40.89.195",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 19.507,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWNuoVEfVLJvU3jWY2zLYjGUaathsecwT19jhByjnbQvkj": [
+        {
+          "ip": "147.75.32.73",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 86.055,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "147.75.32.73",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 85.188,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "2604:1380:4601:4200::3",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "2604:1380:4601:4200::3",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        }
+      ],
+      "12D3KooWPySxxWQjBgX9Jp6uAHQfVmdq8HG1gVvS1fRawHNSrmqW": [
+        {
+          "ip": "147.75.33.191",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 93.51,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "147.75.33.191",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 98.94,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "2604:1380:4601:4200::1",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "2604:1380:4601:4200::1",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        }
+      ],
+      "12D3KooWR19qPPiZH4khepNjS3CLXiB7AbrbAD4ZcDjN1UjGUNE1": [
+        {
+          "ip": "139.178.69.155",
+          "ip_type": "ip4",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": 93.707,
+          "ip_hop": "31"
+        },
+        {
+          "ip": "2604:1380:45e1:2700::1",
+          "ip_type": "ip6",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "2604:1380:45e1:2700::1",
+          "ip_type": "ip6",
+          "port": "4002",
+          "protocol": "tcp",
+          "rtt": null,
+          "ip_hop": null
+        },
+        {
+          "ip": "139.178.69.155",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 82.525,
+          "ip_hop": "2"
+        }
+      ]
+    }
+  },
+  {
+    "cid": "QmUhuBhZ7LHMa58VcfSXRsGTTpTRgdzc5xJTwg7dCazxR4",
+    "ipfs_hop": 3,
+    "providers": {
+      "12D3KooWF3PkqX8b9HhjiuLnScRsy198D8DhQrU3JxTifJPF9xwP": []
+    }
+  },
+  {
+    "cid": "QmWpiGS22Ai5Wf4hgmtm3x94K6chibUw2nSFBhrGZLpH9G",
+    "ipfs_hop": 2,
+    "providers": {
+      "12D3KooWHdpjpGUNEsnWKTZouATmgZvnpTnibrEUAJKvannekTya": [
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 94.901,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 84.712,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 161.439,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 163.247,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWSUEGQ7fbHyxdNEX6ZSGG52xkxLDjNzdVUaewExzppdnA": []
+    }
+  },
+  {
+    "cid": "Qmaz9LVDrNaivst75YWQbFtao38zeyADuhHwQKx7moeEkC",
+    "ipfs_hop": 2,
+    "providers": {
+      "12D3KooWHdpjpGUNEsnWKTZouATmgZvnpTnibrEUAJKvannekTya": [
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 96.31,
+          "ip_hop": "2"
+        },
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 87.995,
+          "ip_hop": "100"
+        }
+      ],
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 161.116,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 167.073,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWSUEGQ7fbHyxdNEX6ZSGG52xkxLDjNzdVUaewExzppdnA": []
+    }
+  },
+  {
+    "cid": "QmNRvmJXdgzcfqm12YwMpaTLQZRQZyvydXrdLWkqXrE6gF",
+    "ipfs_hop": 2,
+    "providers": {
+      "12D3KooWHdpjpGUNEsnWKTZouATmgZvnpTnibrEUAJKvannekTya": [
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 89.554,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.94.44.71",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 86.45,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWJLm3eT3cmGTThbPQkBHuanawUK9EmGFs5fBKtdufsjf7": [
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "udp",
+          "rtt": 162.939,
+          "ip_hop": "100"
+        },
+        {
+          "ip": "34.146.41.51",
+          "ip_type": "ip4",
+          "port": "4001",
+          "protocol": "tcp",
+          "rtt": 161.905,
+          "ip_hop": "2"
+        }
+      ],
+      "12D3KooWSUEGQ7fbHyxdNEX6ZSGG52xkxLDjNzdVUaewExzppdnA": []
+    }
+  }
+]

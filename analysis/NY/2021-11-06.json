@@ -1,0 +1,711 @@
+[
+  {
+    "cid": "QmT1YZAcBndqpYmShuxWRNdsSuBN7cnJxkko4QxdLH4yqX",
+    "dur": 210,
+    "ts": 1636039899.484,
+    "upload_date": "2021-11-04",
+    "category": "trending",
+    "local_check_ts": null,
+    "public_check_ts": 1636227374.392434,
+    "local_data": null,
+    "public_data": {
+      "overhead": 2.172238,
+      "download_time": 27.448119,
+      "file_size": 30858266.0,
+      "video_length": 210,
+      "stall_rate": 0,
+      "bandwidth": 1124239.7338775748
+    }
+  },
+  {
+    "cid": "QmTEMFPTq8dJgaAWv8MPJAUvqtgL4E4fwuGVH2XW1zKPcc",
+    "dur": 155,
+    "ts": 1636158142.613,
+    "upload_date": "2021-11-05",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636227719.2637796,
+    "local_data": null,
+    "public_data": {
+      "overhead": 6.272368,
+      "download_time": 37.581583,
+      "file_size": 20814067.0,
+      "video_length": 155,
+      "stall_rate": 0,
+      "bandwidth": 553836.8886696444
+    }
+  },
+  {
+    "cid": "QmWwM821L59RpHVPUjJna7BDRrj7Z9mV5UHij7gJrkwnnC",
+    "dur": 190,
+    "ts": 1636157768.263,
+    "upload_date": "2021-11-05",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636228025.044825,
+    "local_data": null,
+    "public_data": {
+      "overhead": 3.218173,
+      "download_time": 1.862089,
+      "file_size": 18049997.0,
+      "video_length": 190,
+      "stall_rate": 0,
+      "bandwidth": 9693412.613467991
+    }
+  },
+  {
+    "cid": "QmWe5pdTiZH6vV3QLFaAzzxAEqgztEyP2nFmw3MfBvDYRq",
+    "dur": 297,
+    "ts": 1636156361.675,
+    "upload_date": "2021-11-05",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636228350.1141195,
+    "local_data": null,
+    "public_data": {
+      "overhead": 7.716657,
+      "download_time": 15.928322,
+      "file_size": 43009743.0,
+      "video_length": 297,
+      "stall_rate": 0,
+      "bandwidth": 2700205.520707078
+    }
+  },
+  {
+    "cid": "QmPmLKhZePvN2Y8VFJmgTRg7atStfx1VYcWf3gswNdgnS6",
+    "dur": 600,
+    "ts": 1636154426.985,
+    "upload_date": "2021-11-05",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636228657.9616704,
+    "local_data": null,
+    "public_data": {
+      "overhead": 1.038859,
+      "download_time": 5.63213,
+      "file_size": 89663998.0,
+      "video_length": 600,
+      "stall_rate": 0,
+      "bandwidth": 15920086.71674837
+    }
+  },
+  {
+    "cid": "QmXkVSWMazDDUSmfRg1AQAZCaxD1iMi95L9Sc7KUJ2YVDD",
+    "dur": 302,
+    "ts": 1636151601.909,
+    "upload_date": "2021-11-05",
+    "category": "new",
+    "local_check_ts": 1636228664.2583327,
+    "public_check_ts": 1636228671.5908086,
+    "local_data": {
+      "overhead": 4.505895,
+      "download_time": 1.2416490000000007,
+      "file_size": 14550007.0,
+      "video_length": 302,
+      "stall_rate": 0,
+      "bandwidth": 11718293.173030375
+    },
+    "public_data": {
+      "overhead": 7.068011,
+      "download_time": 0.0005609999999993676,
+      "file_size": 169.0,
+      "video_length": 302,
+      "stall_rate": 0,
+      "bandwidth": 301247.7718363467
+    }
+  },
+  {
+    "cid": "QmNhjtsTyWw4bMHGufYoumxBU71Cp9qEbQfAx1nUV1sEHh",
+    "dur": 179,
+    "ts": 1636147509.176,
+    "upload_date": "2021-11-05",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636228977.6732135,
+    "local_data": null,
+    "public_data": {
+      "overhead": 2.904069,
+      "download_time": 1.7797650000000003,
+      "file_size": 26417790.0,
+      "video_length": 179,
+      "stall_rate": 0,
+      "bandwidth": 14843414.720482757
+    }
+  },
+  {
+    "cid": "QmSNAp75W36FrHwWq6mCKMAYCrNRZufytDR4kEUcXKDUVh",
+    "dur": 142,
+    "ts": 1636146597.647,
+    "upload_date": "2021-11-05",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636229282.2504575,
+    "local_data": null,
+    "public_data": {
+      "overhead": 2.763384,
+      "download_time": 1.0287130000000002,
+      "file_size": 11885676.0,
+      "video_length": 142,
+      "stall_rate": 0,
+      "bandwidth": 11553928.063512366
+    }
+  },
+  {
+    "cid": "QmUDKoEQSNp2BeNYczbBTXwK2e6yyAdjs3TvNp4gciztau",
+    "dur": 666,
+    "ts": 1636146018.162,
+    "upload_date": "2021-11-05",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636229595.9627044,
+    "local_data": null,
+    "public_data": {
+      "overhead": 3.116678,
+      "download_time": 9.893521999999999,
+      "file_size": 22108026.0,
+      "video_length": 666,
+      "stall_rate": 0,
+      "bandwidth": 2234596.132701782
+    }
+  },
+  {
+    "cid": "QmZUJFbMR6tB2nGMqrU9q5rdwyHAYqaNxsL9whHM32F8tf",
+    "dur": 25,
+    "ts": 1636141928.533,
+    "upload_date": "2021-11-05",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636229898.5992284,
+    "local_data": null,
+    "public_data": {
+      "overhead": 1.785078,
+      "download_time": 0.3576809999999999,
+      "file_size": 689322.0,
+      "video_length": 25,
+      "stall_rate": 0,
+      "bandwidth": 1927197.6985078887
+    }
+  },
+  {
+    "cid": "QmRWfaraGSQH1uJ7gk3xSBn4frpvfyxrEdxbbKMMyLGmFi",
+    "dur": 472,
+    "ts": 1636141819.894,
+    "upload_date": "2021-11-05",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636230207.183021,
+    "local_data": null,
+    "public_data": {
+      "overhead": 3.374445,
+      "download_time": 3.836167,
+      "file_size": 69890493.0,
+      "video_length": 472,
+      "stall_rate": 0,
+      "bandwidth": 18218834.842174493
+    }
+  },
+  {
+    "cid": "QmXxn2WKxSrNizhr7VzErA6fFmAdSRHvxUm7W8B6qK73vt",
+    "dur": 254,
+    "ts": 1636133338.568,
+    "upload_date": "2021-11-05",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636230511.7531066,
+    "local_data": null,
+    "public_data": {
+      "overhead": 0.947593,
+      "download_time": 3.009741,
+      "file_size": 37323748.0,
+      "video_length": 254,
+      "stall_rate": 0,
+      "bandwidth": 12400983.340426967
+    }
+  },
+  {
+    "cid": "Qma6YjXpiYkEZxH49gS8SzCJ7LtoXbHg9mXK3C9GinHv1C",
+    "dur": 1142,
+    "ts": 1636118887.263,
+    "upload_date": "2021-11-05",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636230913.799401,
+    "local_data": null,
+    "public_data": {
+      "overhead": 4.237456,
+      "download_time": 97.17722900000001,
+      "file_size": 609317940.0,
+      "video_length": 1142,
+      "stall_rate": 0,
+      "bandwidth": 6270171.996775087
+    }
+  },
+  {
+    "cid": "QmXQrAX5Xeczbcu9fMQzwHLPDadfAiMHwB3RbpTpH3A7kW",
+    "dur": 936,
+    "ts": 1636129206.646,
+    "upload_date": "2021-11-05",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636231230.4035811,
+    "local_data": null,
+    "public_data": {
+      "overhead": 4.510052,
+      "download_time": 11.25485,
+      "file_size": 130527573.0,
+      "video_length": 936,
+      "stall_rate": 0,
+      "bandwidth": 11597451.143284896
+    }
+  },
+  {
+    "cid": "QmZ4eLFfy2qJrmmQD7EtTGTr2n3K9Tr83rup7kWj5qNCPh",
+    "dur": 243,
+    "ts": 1636091949.311,
+    "upload_date": "2021-11-05",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636231538.307404,
+    "local_data": null,
+    "public_data": {
+      "overhead": 4.09844,
+      "download_time": 2.7409619999999997,
+      "file_size": 49312367.0,
+      "video_length": 243,
+      "stall_rate": 0,
+      "bandwidth": 17990897.721310988
+    }
+  },
+  {
+    "cid": "QmcttTernPsEP12sQCqNgx7g7ikCBM9Y48UUS8ozpE6kZV",
+    "dur": 125,
+    "ts": 1636095106.254,
+    "upload_date": "2021-11-05",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636231843.3514242,
+    "local_data": null,
+    "public_data": {
+      "overhead": 2.796142,
+      "download_time": 1.495937,
+      "file_size": 17909767.0,
+      "video_length": 125,
+      "stall_rate": 0,
+      "bandwidth": 11972273.564996386
+    }
+  },
+  {
+    "cid": "QmbkHDP2oHkwwNtmiwDCVcwL7cjH4EPRCUnFK5YBAFWedy",
+    "dur": 61,
+    "ts": 1636085529.711,
+    "upload_date": "2021-11-05",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636232152.5278926,
+    "local_data": null,
+    "public_data": {
+      "overhead": 1.404409,
+      "download_time": 6.458279,
+      "file_size": 7879914.0,
+      "video_length": 61,
+      "stall_rate": 0,
+      "bandwidth": 1220125.9809308331
+    }
+  },
+  {
+    "cid": "QmZVPPNknoCCT5ZmuzY41socuWHQTfLcNhEKbKpgDRRWAR",
+    "dur": 60,
+    "ts": 1636064232.714,
+    "upload_date": "2021-11-04",
+    "category": "trending",
+    "local_check_ts": null,
+    "public_check_ts": 1636220441.2557511,
+    "local_data": null,
+    "public_data": {
+      "overhead": 3.359172,
+      "download_time": 1.2848569999999997,
+      "file_size": 8713381.0,
+      "video_length": 60,
+      "stall_rate": 0,
+      "bandwidth": 6781595.928574154
+    }
+  },
+  {
+    "cid": "QmdtfwNASEvUFAXZMW9iUztKs8u6ZVYbi3i5i7xynddFX5",
+    "dur": 96,
+    "ts": 1636210231.603,
+    "upload_date": "2021-11-06",
+    "category": "trending",
+    "local_check_ts": null,
+    "public_check_ts": 1636220760.303987,
+    "local_data": null,
+    "public_data": {
+      "overhead": 6.523481,
+      "download_time": 11.692561000000001,
+      "file_size": 13799581.0,
+      "video_length": 96,
+      "stall_rate": 0,
+      "bandwidth": 1180201.7539185812
+    }
+  },
+  {
+    "cid": "QmY8yxu62RaZdHZjmLXQnSjwmLPfa4bddp78LRfcwzuAPy",
+    "dur": 223,
+    "ts": 1636117616.611,
+    "upload_date": "2021-11-05",
+    "category": "trending",
+    "local_check_ts": null,
+    "public_check_ts": 1636221137.8221338,
+    "local_data": null,
+    "public_data": {
+      "overhead": 17.236387,
+      "download_time": 59.016715999999995,
+      "file_size": 31937552.0,
+      "video_length": 223,
+      "stall_rate": 0,
+      "bandwidth": 541161.1178094017
+    }
+  },
+  {
+    "cid": "QmTZVg7zbKwQWdLwLqb7X1n93t3hkcjsmD11MxFrqNhLqo",
+    "dur": 197,
+    "ts": 1636214879.695,
+    "upload_date": "2021-11-06",
+    "category": "trending",
+    "local_check_ts": null,
+    "public_check_ts": 1636221443.5970821,
+    "local_data": null,
+    "public_data": {
+      "overhead": 3.069878,
+      "download_time": 1.3572920000000002,
+      "file_size": 17937984.0,
+      "video_length": 197,
+      "stall_rate": 0,
+      "bandwidth": 13216009.524848005
+    }
+  },
+  {
+    "cid": "QmZoQxuLMosUpujqLL52tipxR5vxgR9FUmziBGpG5vw1eo",
+    "dur": 95,
+    "ts": 1636027916.744,
+    "upload_date": "2021-11-04",
+    "category": "trending",
+    "local_check_ts": null,
+    "public_check_ts": 1636221748.1358645,
+    "local_data": null,
+    "public_data": {
+      "overhead": 0.710833,
+      "download_time": 2.772536,
+      "file_size": 44130265.0,
+      "video_length": 95,
+      "stall_rate": 0,
+      "bandwidth": 15916931.286013959
+    }
+  },
+  {
+    "cid": "QmaxWeuku8fpKp4fnp5qgtoo8QQ3W6UZEoNqZa7HM5gNTc",
+    "dur": 337,
+    "ts": 1636218220.802,
+    "upload_date": "2021-11-06",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636222053.2341855,
+    "local_data": null,
+    "public_data": {
+      "overhead": 0.790545,
+      "download_time": 3.304646,
+      "file_size": 70302288.0,
+      "video_length": 337,
+      "stall_rate": 0,
+      "bandwidth": 21273772.74298064
+    }
+  },
+  {
+    "cid": "QmWoES7i7VSybNGpVZvu5Lr7iwiBT2y7k4Ja4a4LmH2gSv",
+    "dur": 16,
+    "ts": 1636215148.341,
+    "upload_date": "2021-11-06",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636222357.8658977,
+    "local_data": null,
+    "public_data": {
+      "overhead": 2.5537,
+      "download_time": 0.5979989999999997,
+      "file_size": 2395007.0,
+      "video_length": 16,
+      "stall_rate": 0,
+      "bandwidth": 4005035.1254768004
+    }
+  },
+  {
+    "cid": "QmTZVg7zbKwQWdLwLqb7X1n93t3hkcjsmD11MxFrqNhLqo",
+    "dur": 197,
+    "ts": 1636214879.695,
+    "upload_date": "2021-11-06",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636222668.475463,
+    "local_data": null,
+    "public_data": {
+      "overhead": 7.795097,
+      "download_time": 1.4860659999999992,
+      "file_size": 17937984.0,
+      "video_length": 197,
+      "stall_rate": 0,
+      "bandwidth": 12070785.550574476
+    }
+  },
+  {
+    "cid": "QmdtfwNASEvUFAXZMW9iUztKs8u6ZVYbi3i5i7xynddFX5",
+    "dur": 96,
+    "ts": 1636210231.603,
+    "upload_date": "2021-11-06",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636222998.4540074,
+    "local_data": null,
+    "public_data": {
+      "overhead": 26.726713,
+      "download_time": 2.0426530000000014,
+      "file_size": 13799581.0,
+      "video_length": 96,
+      "stall_rate": 0,
+      "bandwidth": 6755714.749396981
+    }
+  },
+  {
+    "cid": "QmaiFz7oahcuuaPLchmoHT1PD1b234YgcfjE34wybYqa6u",
+    "dur": 357,
+    "ts": 1636207451.845,
+    "upload_date": "2021-11-06",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636223304.650092,
+    "local_data": null,
+    "public_data": {
+      "overhead": 2.940345,
+      "download_time": 2.4960169999999997,
+      "file_size": 50466211.0,
+      "video_length": 357,
+      "stall_rate": 0,
+      "bandwidth": 20218696.827786032
+    }
+  },
+  {
+    "cid": "QmeJgPeWWXGWbS5FzqjGvqrhzGx1oSqjq51qpypupeY8Rz",
+    "dur": 181,
+    "ts": 1636204626.605,
+    "upload_date": "2021-11-06",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636223611.1349614,
+    "local_data": null,
+    "public_data": {
+      "overhead": 2.845809,
+      "download_time": 2.5050990000000004,
+      "file_size": 26505621.0,
+      "video_length": 181,
+      "stall_rate": 0,
+      "bandwidth": 10580668.069405638
+    }
+  },
+  {
+    "cid": "QmeJYPkzb2ZdjHDWQaTk9wN4Zd43Pzqo8MFAZ6RivCmqCg",
+    "dur": 844,
+    "ts": 1636201508.837,
+    "upload_date": "2021-11-06",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636223951.7371638,
+    "local_data": null,
+    "public_data": {
+      "overhead": 1.964849,
+      "download_time": 37.512904999999996,
+      "file_size": 122129554.0,
+      "video_length": 844,
+      "stall_rate": 0,
+      "bandwidth": 3255667.722880966
+    }
+  },
+  {
+    "cid": "QmVYDAPRhaErBD51tK4LCR4Ww4MLRsSvbZzfbUpLyivtqr",
+    "dur": 15,
+    "ts": 1636199196.779,
+    "upload_date": "2021-11-06",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636224256.4695535,
+    "local_data": null,
+    "public_data": {
+      "overhead": 2.746158,
+      "download_time": 0.6402490000000003,
+      "file_size": 2162929.0,
+      "video_length": 15,
+      "stall_rate": 0,
+      "bandwidth": 3378262.2073599473
+    }
+  },
+  {
+    "cid": "QmPKYrJNgu48UzXpLGaSqS76eemmSNiqUygCMmjH2aZeiP",
+    "dur": 128,
+    "ts": 1636193782.108,
+    "upload_date": "2021-11-06",
+    "category": "new",
+    "local_check_ts": null,
+    "public_check_ts": 1636224561.4596603,
+    "local_data": null,
+    "public_data": {
+      "overhead": 2.711013,
+      "download_time": 1.1943610000000002,
+      "file_size": 18899138.0,
+      "video_length": 128,
+      "stall_rate": 0,
+      "bandwidth": 15823639.586356215
+    }
+  },
+  {
+    "cid": "QmdtfwNASEvUFAXZMW9iUztKs8u6ZVYbi3i5i7xynddFX5",
+    "dur": 96,
+    "ts": 1636210231.603,
+    "upload_date": "2021-11-06",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636224866.4372652,
+    "local_data": null,
+    "public_data": {
+      "overhead": 2.922549,
+      "download_time": 1.479718,
+      "file_size": 13799581.0,
+      "video_length": 96,
+      "stall_rate": 0,
+      "bandwidth": 9325818.162649909
+    }
+  },
+  {
+    "cid": "QmTZVg7zbKwQWdLwLqb7X1n93t3hkcjsmD11MxFrqNhLqo",
+    "dur": 197,
+    "ts": 1636214879.695,
+    "upload_date": "2021-11-06",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636225172.1031091,
+    "local_data": null,
+    "public_data": {
+      "overhead": 3.375688,
+      "download_time": 1.2197770000000001,
+      "file_size": 17937984.0,
+      "video_length": 197,
+      "stall_rate": 0,
+      "bandwidth": 14705953.629228948
+    }
+  },
+  {
+    "cid": "QmaxWeuku8fpKp4fnp5qgtoo8QQ3W6UZEoNqZa7HM5gNTc",
+    "dur": 337,
+    "ts": 1636218220.802,
+    "upload_date": "2021-11-06",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636225481.419008,
+    "local_data": null,
+    "public_data": {
+      "overhead": 1.536856,
+      "download_time": 6.8009070000000005,
+      "file_size": 70302288.0,
+      "video_length": 337,
+      "stall_rate": 0,
+      "bandwidth": 10337192.965585325
+    }
+  },
+  {
+    "cid": "QmaiFz7oahcuuaPLchmoHT1PD1b234YgcfjE34wybYqa6u",
+    "dur": 357,
+    "ts": 1636207451.845,
+    "upload_date": "2021-11-06",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636225804.089319,
+    "local_data": null,
+    "public_data": {
+      "overhead": 8.133625,
+      "download_time": 14.003898000000001,
+      "file_size": 50466211.0,
+      "video_length": 357,
+      "stall_rate": 0,
+      "bandwidth": 3603725.9768672977
+    }
+  },
+  {
+    "cid": "QmeFPrRkGiFUwjNHvKyjCVDZA1bukryaX7F9qtXUDcy72R",
+    "dur": 325,
+    "ts": 1636187920.334,
+    "upload_date": "2021-11-06",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636226110.3117151,
+    "local_data": null,
+    "public_data": {
+      "overhead": 2.631357,
+      "download_time": 2.1208050000000003,
+      "file_size": 47611119.0,
+      "video_length": 325,
+      "stall_rate": 0,
+      "bandwidth": 22449550.524447083
+    }
+  },
+  {
+    "cid": "QmbiiX1xNnqLgZ8fSihpRCXdJ8TdtkCRVR6249CNmwUo3Z",
+    "dur": 99,
+    "ts": 1636167257.747,
+    "upload_date": "2021-11-05",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636226413.8051298,
+    "local_data": null,
+    "public_data": {
+      "overhead": 1.424287,
+      "download_time": 1.2331849999999998,
+      "file_size": 14075917.0,
+      "video_length": 99,
+      "stall_rate": 0,
+      "bandwidth": 11414278.47403269
+    }
+  },
+  {
+    "cid": "QmY8yxu62RaZdHZjmLXQnSjwmLPfa4bddp78LRfcwzuAPy",
+    "dur": 223,
+    "ts": 1636117616.611,
+    "upload_date": "2021-11-05",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636226719.382122,
+    "local_data": null,
+    "public_data": {
+      "overhead": 2.77485,
+      "download_time": 1.9665170000000005,
+      "file_size": 31937552.0,
+      "video_length": 223,
+      "stall_rate": 0,
+      "bandwidth": 16240669.162788825
+    }
+  },
+  {
+    "cid": "QmQJiY8uLLtUGMEs8dvDKUJssYZwHTCMvszrN9oWjKmBCj",
+    "dur": 276,
+    "ts": 1636135602.194,
+    "upload_date": "2021-11-05",
+    "category": "hot",
+    "local_check_ts": null,
+    "public_check_ts": 1636227043.6118646,
+    "local_data": null,
+    "public_data": {
+      "overhead": 4.993891,
+      "download_time": 18.473745,
+      "file_size": 40556810.0,
+      "video_length": 276,
+      "stall_rate": 0,
+      "bandwidth": 2195375.653393505
+    }
+  }
+]
